@@ -1,0 +1,10 @@
+Remote Work Policy
+
+1. Eligibility
+Remote work requires managerial approval.
+
+2. Availability
+Employees must remain available during core business hours.
+
+3. Security
+VPN usage is required for remote access.

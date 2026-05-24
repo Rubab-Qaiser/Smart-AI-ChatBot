@@ -1,0 +1,13 @@
+Information Technology Policy
+
+1. Password Requirements
+Passwords must contain at least 12 characters.
+
+2. MFA
+Multi-factor authentication is mandatory.
+
+3. Device Security
+Only approved software may be installed on company devices.
+
+4. Incident Reporting
+Employees must report security incidents immediately.
